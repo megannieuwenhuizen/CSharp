@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a66670c6-abef-4e0a-90ae-2f60a53fad3d": {
+      "ProjectGuid": "a66670c6-abef-4e0a-90ae-2f60a53fad3d",
+      "DisplayName": "HelloWorld",
+      "ColorIndex": 0
+    },
+    "8e4979bb-d3d9-4495-82d5-bf5c6230dc4f": {
+      "ProjectGuid": "8e4979bb-d3d9-4495-82d5-bf5c6230dc4f",
+      "DisplayName": "AppX",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

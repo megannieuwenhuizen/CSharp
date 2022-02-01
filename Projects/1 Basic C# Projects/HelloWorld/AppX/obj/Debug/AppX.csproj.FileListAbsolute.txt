@@ -1,0 +1,8 @@
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\HelloWorld\AppX\bin\Debug\AppX.exe.config
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\HelloWorld\AppX\bin\Debug\AppX.exe
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\HelloWorld\AppX\bin\Debug\AppX.pdb
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\HelloWorld\AppX\obj\Debug\AppX.csproj.AssemblyReference.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\HelloWorld\AppX\obj\Debug\AppX.csproj.SuggestedBindingRedirects.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\HelloWorld\AppX\obj\Debug\AppX.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\HelloWorld\AppX\obj\Debug\AppX.exe
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\HelloWorld\AppX\obj\Debug\AppX.pdb
