@@ -1,0 +1,8 @@
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\ArithmaticOperationsExercise\ArithmaticOperationsExercise\bin\Debug\ArithmaticOperationsExercise.exe.config
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\ArithmaticOperationsExercise\ArithmaticOperationsExercise\bin\Debug\ArithmaticOperationsExercise.exe
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\ArithmaticOperationsExercise\ArithmaticOperationsExercise\bin\Debug\ArithmaticOperationsExercise.pdb
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\ArithmaticOperationsExercise\ArithmaticOperationsExercise\obj\Debug\ArithmaticOperationsExercise.csproj.AssemblyReference.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\ArithmaticOperationsExercise\ArithmaticOperationsExercise\obj\Debug\ArithmaticOperationsExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\ArithmaticOperationsExercise\ArithmaticOperationsExercise\obj\Debug\ArithmaticOperationsExercise.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\ArithmaticOperationsExercise\ArithmaticOperationsExercise\obj\Debug\ArithmaticOperationsExercise.exe
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\ArithmaticOperationsExercise\ArithmaticOperationsExercise\obj\Debug\ArithmaticOperationsExercise.pdb

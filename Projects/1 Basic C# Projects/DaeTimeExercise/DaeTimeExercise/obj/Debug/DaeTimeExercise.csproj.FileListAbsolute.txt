@@ -1,0 +1,8 @@
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\DaeTimeExercise\DaeTimeExercise\bin\Debug\DaeTimeExercise.exe.config
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\DaeTimeExercise\DaeTimeExercise\bin\Debug\DaeTimeExercise.exe
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\DaeTimeExercise\DaeTimeExercise\bin\Debug\DaeTimeExercise.pdb
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\DaeTimeExercise\DaeTimeExercise\obj\Debug\DaeTimeExercise.csproj.AssemblyReference.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\DaeTimeExercise\DaeTimeExercise\obj\Debug\DaeTimeExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\DaeTimeExercise\DaeTimeExercise\obj\Debug\DaeTimeExercise.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\DaeTimeExercise\DaeTimeExercise\obj\Debug\DaeTimeExercise.exe
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\DaeTimeExercise\DaeTimeExercise\obj\Debug\DaeTimeExercise.pdb
