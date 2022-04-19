@@ -1,0 +1,8 @@
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\SimpleMethodExercise\bin\Debug\SimpleMethodExercise.exe.config
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\SimpleMethodExercise\bin\Debug\SimpleMethodExercise.exe
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\SimpleMethodExercise\bin\Debug\SimpleMethodExercise.pdb
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\SimpleMethodExercise\obj\Debug\SimpleMethodExercise.csproj.AssemblyReference.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\SimpleMethodExercise\obj\Debug\SimpleMethodExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\SimpleMethodExercise\obj\Debug\SimpleMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\SimpleMethodExercise\obj\Debug\SimpleMethodExercise.exe
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\SimpleMethodExercise\obj\Debug\SimpleMethodExercise.pdb
