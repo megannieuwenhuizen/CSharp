@@ -1,0 +1,11 @@
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\bin\Debug\loopsExercise1.exe.config
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\obj\Debug\loopsExercise1.csprojResolveAssemblyReference.cache
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\obj\Debug\loopsExercise1.loopingForm.resources
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\obj\Debug\loopsExercise1.Properties.Resources.resources
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\obj\Debug\loopsExercise1.csproj.GenerateResource.Cache
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\bin\Debug\loopsExercise1.exe
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\bin\Debug\loopsExercise1.pdb
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\obj\Debug\loopsExercise1.exe
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\obj\Debug\loopsExercise1.pdb
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\obj\Debug\loopsExercise1.TimesTableForm.resources
+C:\Users\01414525\Desktop\2014\INF1003F\Gardening\Week 4 - Arrays & Loops\Lecture Material\loopsExercise1\loopsExercise1\obj\Debug\loopsExercise1.NumberTriangleForm.resources

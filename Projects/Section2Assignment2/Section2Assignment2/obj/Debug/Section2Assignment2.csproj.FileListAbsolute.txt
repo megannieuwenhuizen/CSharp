@@ -1,0 +1,7 @@
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\Section2Assignment2\Section2Assignment2\obj\Debug\Section2Assignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\Section2Assignment2\Section2Assignment2\obj\Debug\Section2Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\Section2Assignment2\Section2Assignment2\bin\Debug\Section2Assignment2.exe.config
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\Section2Assignment2\Section2Assignment2\bin\Debug\Section2Assignment2.exe
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\Section2Assignment2\Section2Assignment2\bin\Debug\Section2Assignment2.pdb
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\Section2Assignment2\Section2Assignment2\obj\Debug\Section2Assignment2.exe
+C:\Users\megan\OneDrive\Documents\Courses\Udemy C#\Projects\Section2Assignment2\Section2Assignment2\obj\Debug\Section2Assignment2.pdb
